@@ -3,9 +3,9 @@ Simple Ray Casting Demo using SDL2 and C
 
 Build:
 
-`make
+```make```
 
 or
 
-`gcc ray.c -o ray -lm -lSDL2
+```gcc ray.c -o ray -lm -lSDL2```
 
