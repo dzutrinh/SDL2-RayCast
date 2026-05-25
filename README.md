@@ -9,3 +9,6 @@ or
 
 ```gcc ray.c -o ray -lm -lSDL2```
 
+Screenshot:
+
+![screenshot](screen.png)
